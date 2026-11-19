@@ -41,4 +41,4 @@ $image->clean();
 
 ## Licence
 
-This library is written by [Muhammet ŞAFAK](http://www.muhammetsafak.com.tr) and distributed under the [MIT License](./LICENSE).
+This library is written by [Muhammet ŞAFAK](https://muhammetsafak.com) and distributed under the [MIT License](./LICENSE).
