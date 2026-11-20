@@ -4,11 +4,11 @@
  *
  * This file is part of ImageManipulation.
  *
- * @author     Muhammet ŞAFAK <info@muhammetsafak.com.tr>
+ * @author     Muhammet ŞAFAK <info@muhammetsafak.com>
  * @copyright  Copyright © 2021 ImageManipulation
  * @license    https://github.com/muhammetsafak/ImageManipulation/blob/main/LICENSE  MIT
  * @version    0.3
- * @link       https://www.muhammetsafak.com.tr
+ * @link       https://muhammetsafak.com
  */
 
 declare(strict_types=1);
